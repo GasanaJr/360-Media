@@ -198,6 +198,18 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+    "com.unity.xr.oculus": {
+      "version": "4.2.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.xr.management": "4.4.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+=======
+>>>>>>> d5be24cd7a68ea8dde8870600a7dc6648e96f0a5
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
