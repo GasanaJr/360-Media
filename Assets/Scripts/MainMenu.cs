@@ -26,7 +26,7 @@ public class MainMenu : MonoBehaviour
 
     public void StartTour()
     {
-        SceneManager.LoadScene("Tour");
+        SceneManager.LoadScene(0);
 
     }
 
