@@ -1,0 +1,34 @@
+[33mb1872cae[m[33m ([m[1;36mHEAD -> [m[1;32mStephens_branch[m[33m, [m[1;31morigin/Stephens_branch[m[33m)[m last
+[33m8a760d42[m[33m ([m[1;32mmain[m[33m)[m Merge pull request #8 from GasanaJr/feat-rooms-junior
+[33mcc9f74af[m ch(test): Fix bugs and test in oculus
+[33m82aae971[m feat(orientation): Fix all orientation in rooms and test on oculus
+[33mee24944b[m feat(ethiopia): Fix orientation and hotspots placement
+[33m44745407[m feat(ethiopia): Fix orientation and hotspots placement
+[33m138d9637[m feat(lockers): Fix the main lockers orientation and interactables
+[33m56ce6a22[m Merge pull request #7 from GasanaJr/feat-rooms-junior
+[33mb7de86a3[m feat(vr): add vr movement interactions(continous turn)
+[33mac868da6[m Merge pull request #6 from GasanaJr/feat-rooms-junior
+[33m31869632[m feat(rooms): Link Food court to Game area
+[33mc5c810a1[m feat(rroms): add hotspots and location to class, lockers, and Game
+[33m69961fd6[m Merge pull request #5 from GasanaJr/feat-rooms-junior
+[33md0f983fc[m feat(ethiopia): add a hotspot in Ethiopia
+[33m0c41dc28[m feat(lockers): add info scripts to the locker rooms
+[33mc744fd14[m feat(hotspots): add hotspots prefab in the GameSphere
+[33mf8e82687[m feat(materials): Change materials from cubemap to unlit textures
+[33m89cb242a[m feat(skybox): add skybox changer script
+[33m9ebb3d25[m feat(skybox): Use skybox implementation
+[33md993c844[m feat(camera): switch to VR Camera
+[33m49d89881[m feat(raycaster): add graphics raycaster
+[33m5057e050[m Update packages-lock.json
+[33m3a06458c[m Update manifest.json
+[33m520fbc6a[m Merge pull request #3 from GasanaJr/main-menu
+[33m1cc5598a[m fix conflicts
+[33m7af7a56b[m mainmenu
+[33md5be24cd[m Merge pull request #2 from GasanaJr/ft-junior-branch
+[33mf2980172[m[33m ([m[1;31morigin/ft-junior-branch[m[33m)[m feat(lockers&game): add lockers and game center spheres and materials
+[33m3510c56c[m feat(ethiopia): apply high res texture to the skybox and add XR toolkit
+[33mb8ac14a1[m feat(Ethiopia): add ethiopia material and sphere
+[33m77635471[m feat(image): add images for locker and ethiopia
+[33ma6057adc[m Merge pull request #1 from GasanaJr/main-menu
+[33m7e9efb94[m scene
+[33mc3700d0b[m ch(readme): add readme.md
