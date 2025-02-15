@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Samples/XR Interaction Toolkit/2.6.4/Starter Assets/DemoSceneAssets/AffordanceThemes/InteractionColorAffordanceTheme.asset.meta
 guid: 3ec238cb3e80e274c844d7b56f585392
+=======
+guid: 043499bee67f5c6409e9c222d6fb5c26
+>>>>>>> de3a98c9465e9b158928b7aa660e98df26895112:Assets/XRI/Settings/Resources/InteractionLayerSettings.asset.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
