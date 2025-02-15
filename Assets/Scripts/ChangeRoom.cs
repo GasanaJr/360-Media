@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static UnityEngine.GraphicsBuffer;
 
 public class ChangeRoom : MonoBehaviour
 {
     public GameObject target;
     public GameObject current;
+
+    public Animator animator;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +28,8 @@ public class ChangeRoom : MonoBehaviour
 
     IEnumerator LoadTarget()
     {
+        animator.SetTrigger("Start");
+        Debug.Log("Animator triggered");
         yield return new WaitForSeconds(2f);
         if (current != null && target != null)
         {
