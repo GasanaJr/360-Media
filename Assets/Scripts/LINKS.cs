@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LINKS : MonoBehaviour
 {
@@ -12,5 +13,10 @@ public class LINKS : MonoBehaviour
     public void Quit()
     {
         Application.Quit();
+    }
+
+    public void LoadOutro()
+    {
+        SceneManager.LoadScene(2);
     }
 }
