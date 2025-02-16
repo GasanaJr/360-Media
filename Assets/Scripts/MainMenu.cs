@@ -8,12 +8,12 @@ public class MainMenu : MonoBehaviour
 {
    // public VideoPlayer videoPlayer;
     //public GameObject videoQuad;
-    public GameObject buttonPanel;
+    // public GameObject buttonPanel;
 
     // Start is called before the first frame update
     void Start()
     {
-        buttonPanel.SetActive(true);
+        // buttonPanel.SetActive(true);
         //videoPlayer.loopPointReached += EndVideo;
 
     }
@@ -26,7 +26,7 @@ public class MainMenu : MonoBehaviour
 
     public void StartTour()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
 
     }
 
